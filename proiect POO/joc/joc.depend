@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1686524734 source:c:\users\cudlix\desktop\proiect poo\joc\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<fstream>
+	<iomanip>
+
+1686570527 source:d:\onedrive\desktop\proiect poo\joc\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<fstream>
+	<iomanip>
+
